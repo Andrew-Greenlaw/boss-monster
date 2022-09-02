@@ -1,3 +1,20 @@
+body {
+  background-image: url(R.png);
+  background-position: center;
+  background-size: cover;
+}
+
 .boss {
-  height: 70vh;
+  height: 50vh;
+}
+
+
+.player {
+  height: 25vh;
+}
+
+.click-me {
+  user-select: none;
+  cursor: pointer;
+  height: 8vh;
 }
